@@ -11,3 +11,17 @@
 2. [Rules](https://github.com/akshayupadhya/100-days-of-code/blob/master/rules.md)
 2. [Trello board](https://trello.com/b/jho8Nznb/100daysofcode)
 3. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
+
+### Day 2: Oct 13, Saturday
+
+**Today's Progress**: worked on the skelleton of the Home page , created a couple of components
+
+**Thoughts** it was a tiring day, and some how made some time for this, i tried applying for amazon product api , but then learnt that Amazon takes 3-4 working days to approve application , so had come back to protfolio page again and spent an hour on it
+#### The following things need to be done in the  following day
+	1. include a style loader ro load external css files
+	2. get the projects and its info using github api
+
+**Link(s) to work**
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
+
+
