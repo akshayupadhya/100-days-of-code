@@ -24,4 +24,11 @@
 **Link(s) to work**
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
 
+### Day 3: Oct 15, Monday
+
+**Today's Progress**: Finally got my scss setup working for the project with , wrote some basic styles
+
+**Link(s) to work**
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
+
 
