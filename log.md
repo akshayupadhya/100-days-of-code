@@ -29,6 +29,13 @@
 **Today's Progress**: Finally got my scss setup working for the project with , wrote some basic styles
 
 **Link(s) to work**
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
+
+### Day 4: Oct 16, Tuesday
+
+**Today's Progress**: Added the first scroll part of the home page, played with linear gradient and flexbox in CSS
+
+**Link(s) to work**
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
 
 
