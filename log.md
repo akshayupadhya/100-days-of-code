@@ -37,5 +37,11 @@
 
 **Link(s) to work**
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
+### Day 5: Oct 17, Wednesday
+
+**Today's Progress**: Added the second section of the home page using flex and css grid , very basic so far, added few div's which looks similar to cards 
+
+**Link(s) to work**
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019) 
 
 
