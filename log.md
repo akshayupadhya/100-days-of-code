@@ -61,3 +61,11 @@
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
 
 2. [Tweet](https://twitter.com/kcification/status/1053007742468644864)
+
+### Day 7: Oct 20, Saturday
+
+**Today's Progress**: solved few problems in fcc algorithms and data structures sections
+
+**Link(s) to work**
+
+2. [Tweet](https://twitter.com/kcification/status/1053758966503784448)
