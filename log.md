@@ -68,4 +68,16 @@
 
 **Link(s) to work**
 
-2. [Tweet](https://twitter.com/kcification/status/1053758966503784448)
+1. [Tweet](https://twitter.com/kcification/status/1053758966503784448)
+
+### Day 8: Oct 21, Sunday
+
+**Today's Progress**: Added the about me section,pretty printed JSON in JSX
+
+**Thoughts**: found out that JSON.stringify can take a function as a parameter and it called replacer function in params of that function
+
+**Link(s) to work**
+
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/revert-2-profile-section)
+
+2. [Tweet](https://twitter.com/kcification/status/1054078161929986048)
