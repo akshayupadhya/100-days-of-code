@@ -51,3 +51,13 @@
 **Link(s) to work**
 
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
+
+### Day 6: Oct 19, Friday
+
+**Today's Progress**: Added the switch thumbnail for projects with css grid
+
+**Link(s) to work**
+
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
+
+2. [Tweet](https://twitter.com/kcification/status/1053007742468644864)
