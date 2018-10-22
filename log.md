@@ -81,3 +81,15 @@
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/revert-2-profile-section)
 
 2. [Tweet](https://twitter.com/kcification/status/1054078161929986048)
+
+### Day 9: Oct 22, Monday
+
+**Today's Progress**: played with regular expressions, added my picture, played with CSS , gave almost final touches to portfolio page
+
+**Thoughts**: Even replace can take a function as replacer !! strange, Anyway its almost 10 days, and its probably time to add github api's to the projects so that it can pull out all my activity dynamically so that i do not have to worry adding it again and again
+
+**Link(s) to work**
+
+1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
+
+2. [Tweet](https://twitter.com/kcification/status/1054446167487012865)
