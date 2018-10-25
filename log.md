@@ -103,3 +103,13 @@
 
 
 1. [Tweet](https://twitter.com/kcification/status/1054807805905920000)
+
+### Day 11: Oct 25, Thursday
+
+**Today's Progress**: Implented LinkedList in Python for the udacity ds course quiz
+
+**Link(s) to work**
+
+1. [Repo](https://github.com/akshayupadhya/ds-udacity)
+
+2. [Tweet](https://twitter.com/kcification/status/1055534401210052608)
