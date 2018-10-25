@@ -93,3 +93,13 @@
 1. [portfolio site](https://github.com/akshayupadhya/portfolio_site/tree/2019)
 
 2. [Tweet](https://twitter.com/kcification/status/1054446167487012865)
+
+### Day 10: Oct 24, Wednesday
+
+**Today's Progress**: Completed functional progaramming section of fcc ds and algos 
+
+
+**Link(s) to work**
+
+
+1. [Tweet](https://twitter.com/kcification/status/1054807805905920000)
